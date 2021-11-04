@@ -11,10 +11,10 @@
     font-size: 16px;
     background-color: #dde1e2; 
     width: 100%;
-    overscroll-behavior-y: contain;
-    user-select: none;
-    -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
+    overscroll-behavior-y:contain;
+    user-select:none;
+    -webkit-tap-highlight-color:transparent;
+    -webkit-touch-callout:none;
 }
 
 /* Personalizados */
@@ -78,7 +78,7 @@
 
 .nuevo-mensaje div{
   display: inline;
-  float: left;
+  float: none;
 }
 
 .div-img {
